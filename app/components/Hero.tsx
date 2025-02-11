@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="py-20 bg-gradient-to-r from-purple-500 to-indigo-600 text-white">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center justify-between">
         <div className="md:w-1/2 mb-8 md:mb-0">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Hi, I'm Abdul Rahim</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Hi, I&apos;m Abdul Rahim</h1>
           <p className="text-xl mb-6">A passionate web developer creating amazing digital experiences</p>
           <Button size="lg" variant="secondary">
             Download CV
