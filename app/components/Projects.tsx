@@ -4,19 +4,19 @@ import Image from "next/image"
 
 const projects = [
   {
-    title: "E-commerce Platform",
-    description: "A full-stack e-commerce solution with React frontend and Node.js backend.",
-    image: "/placeholder.svg?height=200&width=300",
+    title: "Hackathon Website",
+    description: "An event management website that enables participants and organizers to seamlessly plan, coordinate, and manage hackathons with ease.",
+    image: "/hackathon-website.png",
   },
   {
-    title: "Task Management App",
-    description: "A responsive web application for managing tasks and projects.",
-    image: "/placeholder.svg?height=200&width=300",
+    title: "Placement Hub",
+    description: "A comprehensive portal designed for college students, administrators and companies to simplify and streamline the recruitment process efficiently.",
+    image: "/placement-hub.jpg",
   },
   {
-    title: "Portfolio Website",
-    description: "A customizable portfolio template for showcasing projects and skills.",
-    image: "/placeholder.svg?height=200&width=300",
+    title: "Task Tracker CLI",
+    description: "Task tracker is a project used to track and manage your tasks. In this task, you will build a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on.",
+    image: "/task-cli.png",
   },
 ]
 

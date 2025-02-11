@@ -2,22 +2,10 @@ import { Card, CardContent } from "@/components/ui/card"
 
 const experiences = [
   {
-    title: "Senior Web Developer",
-    company: "Tech Solutions Inc.",
-    period: "2020 - Present",
-    description: "Led a team of developers in creating responsive web applications using React and Node.js.",
-  },
-  {
-    title: "Frontend Developer",
-    company: "Creative Web Agency",
-    period: "2018 - 2020",
-    description: "Developed and maintained client websites using HTML, CSS, and JavaScript frameworks.",
-  },
-  {
-    title: "Junior Developer",
-    company: "StartUp Innovations",
-    period: "2016 - 2018",
-    description: "Assisted in the development of web applications and gained experience in full-stack development.",
+    title: "Web Developer Intern",
+    company: "Viskrit Technologies",
+    period: "Aug 2024 - Oct 2024",
+    description: "Build a Online Buzzer System using React, Node.js. and Socket.IO",
   },
 ]
 
