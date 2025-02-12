@@ -1,5 +1,5 @@
 import { Card, CardContent } from "@/components/ui/card"
-import { Code, Palette, Database, Globe , NotebookText  } from "lucide-react"
+import { Code, Database, Globe , NotebookText  } from "lucide-react"
 
 const skills = [
   { name: "Frontend Development", icon: Code, description: "HTML, CSS, JavaScript, React" },
