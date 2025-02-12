@@ -1,11 +1,11 @@
 import { Card, CardContent } from "@/components/ui/card"
-import { Code, Palette, Database, Globe } from "lucide-react"
+import { Code, Palette, Database, Globe , NotebookText  } from "lucide-react"
 
 const skills = [
-  { name: "Frontend Development", icon: Code, description: "HTML, CSS, JavaScript, React, Vue.js" },
-  { name: "UI/UX Design", icon: Palette, description: "Figma, Adobe XD, Sketch" },
-  { name: "Backend Development", icon: Database, description: "Node.js, Python, SQL, MongoDB" },
-  { name: "Web Technologies", icon: Globe, description: "RESTful APIs, GraphQL, WebSockets" },
+  { name: "Frontend Development", icon: Code, description: "HTML, CSS, JavaScript, React" },
+  { name: "Backend Development", icon: Database, description: "Node.js, PHP, SQL, MongoDB" },
+  { name: "Web Technologies", icon: Globe, description: "RESTful APIs, WebSockets" },
+  { name: "Concepts", icon: NotebookText , description: "DSA, DBMS, Operating System" },
 ]
 
 export default function Skills() {
