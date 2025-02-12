@@ -9,7 +9,9 @@ export default function Hero() {
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Hi, I&apos;m Abdul Rahim</h1>
           <p className="text-xl mb-6">A passionate web developer creating amazing digital experiences</p>
           <Button size="lg" variant="secondary">
-            Download CV
+            <a href="https://drive.google.com/file/d/1G_KSrn5DXCX-kGFO5WSl0QuXyjF05Nog/view?usp=drive_link" target="_blank">
+              Download CV
+            </a>
           </Button>
         </div>
         <div className="md:w-1/2 flex justify-center">
